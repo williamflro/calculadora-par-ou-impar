@@ -1,0 +1,1 @@
+# calculadora-par-ou-impar
